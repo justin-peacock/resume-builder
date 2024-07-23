@@ -88,3 +88,15 @@ Your professional summary goes here.
 
 - [Project Name](https://projecturl.com)
 - [Another Project](https://anotherprojecturl.com)
+```
+
+## Customization
+
+You can customize the styling of the PDF by updating the `style.css` file. You can modify fonts, colors, margins, and other styles to match your preferences.
+
+Use the class `.hide-for-web` to hide elements in the PDF that should not be displayed in the HTML version (e.g., links). Use the class `.hide-for-pdf` to hide elements in the HTML version that should not be displayed in the PDF (e.g., page breaks).
+
+## License
+
+This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more information.
+[]: # (END)

@@ -152,6 +152,10 @@
 	text-decoration: none;
 }
 
+.markdown-body .hide-for-web {
+	display: none;
+}
+
 /* Page break styles */
 .page-break {
 	page-break-after: always;
@@ -172,7 +176,11 @@
 		font-size: 12px;
 	}
 
-	.hide-for-print {
+	.markdown-body .hide-for-web {
+		display: block !important;
+	}
+
+	.markdown-body .hide-for-pdf {
 		display: none !important;
 	}
 }
@@ -238,7 +246,7 @@ Built a user-friendly website for the school, incorporating custom post types fo
 <li><a href="https://lab.superrad.dev/justin/markdown-to-resume"><strong>Markdown to Resume (this resume</strong>)</a><br>
 Developed a tool to build my resume in a cleaner and more efficient way using coding, converting Markdown files into professional resumes. Designed to ensure ease of use and high-quality output.</li>
 </ul>
-<div class="hide-for-print">
+<div class="hide-for-pdf">
 	<a href="./resume.pdf" class="button">Download Resume</a>
 </div>
 </body>

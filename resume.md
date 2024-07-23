@@ -65,6 +65,6 @@ Built a user-friendly website for the school, incorporating custom post types fo
 * [**Markdown to Resume (this resume**)](https://lab.superrad.dev/justin/markdown-to-resume)<br>
 Developed a tool to build my resume in a cleaner and more efficient way using coding, converting Markdown files into professional resumes. Designed to ensure ease of use and high-quality output.
 
-<div class="hide-for-print">
+<div class="hide-for-pdf">
 	<a href="./resume.pdf" class="button">Download Resume</a>
 </div>

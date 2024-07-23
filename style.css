@@ -121,6 +121,10 @@
 	text-decoration: none;
 }
 
+.markdown-body .hide-for-web {
+	display: none;
+}
+
 /* Page break styles */
 .page-break {
 	page-break-after: always;
@@ -141,7 +145,11 @@
 		font-size: 12px;
 	}
 
-	.hide-for-print {
+	.markdown-body .hide-for-web {
+		display: block !important;
+	}
+
+	.markdown-body .hide-for-pdf {
 		display: none !important;
 	}
 }
