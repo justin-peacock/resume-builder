@@ -1,0 +1,19 @@
+{
+  "name": "resume-builder",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@fontsource/ia-writer-quattro": "^5.0.11",
+    "highlight.js": "^11.10.0",
+    "markdown-it": "^14.1.0",
+    "markdown-pdf": "^11.0.0",
+    "puppeteer": "^22.13.0"
+  }
+}
