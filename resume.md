@@ -1,9 +1,10 @@
 # Justin Peacock
 
-## Front-End Engineer
+## Senior Web Developer
 
-**Email:** [justin@sixteenbit.com]( mailto:justin@sixteenbit.com)<br>
-**Website:** [sixteenbit.com](https://sixteenbit.com) | **LinkedIn:** [linkedin.com/in/justin-peacock](https://www.linkedin.com/in/justin-peacock)<br>
+**Email**: [justin@sixteenbit.com]( mailto:justin@sixteenbit.com) | **Phone**: (478) 442-0501<br>
+**Website**: [sixteenbit.com](https://sixteenbit.com) | **LinkedIn**: [linkedin.com/in/justin-peacock](https://www.linkedin.com/in/justin-peacock)<br>
+**Location**: Kathleen, GA
 
 ### Professional Summary
 
@@ -11,7 +12,7 @@ Front-end Developer with over 20 years of experience specializing in modern tech
 
 ### Skills & Technologies
 
-`PHP` `HTML` `SCSS` `CSS` `JavaScript` `MySQL` `Git` `CI/CD` `UI/UX` `WordPress` `Gutenberg` `WP-CLI` `Advanced Custom Fields` `Gravity Forms` `DDEV` `React.js` `Tailwind CSS` `Figma` `Photoshop` `Illustrator` `Ubuntu` `Drupal` `Gulp` `Grunt` `NGINX` `Apache` `AWS` `Docker` `Google Analytics` `Google PageSpeed` `WPEngine` `DigitalOcean` `Cloudflare`
+`PHP` `HTML5` `SCSS` `CSS3` `JavaScript` `MySQL` `Git` `CI/CD` `UI/UX` `WordPress` `Gutenberg` `WP-CLI` `Advanced Custom Fields` `Gravity Forms` `DDEV` `React.js` `Tailwind CSS` `Bootstrap` `Figma` `Photoshop` `Illustrator` `Ubuntu` `Drupal` `Gulp` `Grunt` `NGINX` `Apache` `AWS` `Docker` `Google Analytics` `Google PageSpeed` `WPEngine` `DigitalOcean` `Cloudflare`
 
 ### Professional Experience
 
@@ -62,7 +63,7 @@ Successfully migrated the website from an old domain to a new brand, maintaining
 Collaborated with a design agency for a complete brand refresh, migrated assets to a CDN, and rebuilt the site using WordPress blocks, ensuring improved performance and modern content management.
 * [**Westside Atlanta Charter School**](https://wacs.us/)<br>
 Built a user-friendly website for the school, incorporating custom post types for events and news, and ensured the site met accessibility standards for educational institutions.
-* [**Markdown to Resume (this resume**)](https://lab.superrad.dev/justin/markdown-to-resume)<br>
+* [**Markdown to Resume (this resume**)](https://github.com/justin-peacock/resume-builder)<br>
 Developed a tool to build my resume in a cleaner and more efficient way using coding, converting Markdown files into professional resumes. Designed to ensure ease of use and high-quality output.
 
 <div class="hide-for-pdf">
